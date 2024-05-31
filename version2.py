@@ -11,7 +11,8 @@ import pyperclip
 
 from tkinter import messagebox, scrolledtext
 
-# import os
+# import os module allows the program to search for a directory as well as create the .txt file containing
+# the password list
 import os
 
 # all the gui and buttons mostly using tkinter
