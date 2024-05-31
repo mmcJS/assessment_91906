@@ -136,7 +136,7 @@ special_var = tkinter.BooleanVar()
 password_entry = tkinter.Entry(root, width=50)
 
 
-# Initially show the generate password page
+# initially show the "generate password" page on startup.
 show_generate_page()
 
 root.mainloop()
