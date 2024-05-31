@@ -155,7 +155,7 @@ password_entry = tkinter.Entry(root, width=50, font=('Calibri', 12))
 # to initally show the generate home page when the app is opened
 show_generate_page()
 
-# logged passwords, borders to make it look more like a spreadsheet.
+# 
 root.columnconfigure(0, weight=1)
 root.columnconfigure(1, weight=1)
 root.rowconfigure(0, weight=1)
