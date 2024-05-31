@@ -16,7 +16,7 @@ import os
 
 # all the gui and buttons mostly using tkinter
 root = tkinter.Tk()
-root.title("Password Generator (version 2)")
+root.title("Password Generator (version 3)")
 
 # places the password_log.txt in the same directory as the python file for easy access
 current_directory = os.path.dirname(os.path.abspath(__file__))
